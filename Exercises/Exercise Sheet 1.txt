@@ -2,3 +2,48 @@ Task 1: Setting up - GitHub - DONE
 Task 2: Setting up - AWS - PD
 Task 3: Setting up – Git and Maven - DONE
 Task 4 : The NIST Definition of Cloud Computing 
+
+Drop box:
+
+SM : Both SAAS and IAAS depends on how we use it either as a server,storage etc or as collabration , document scanning etc
+DM : Public Cloud
+
+
+GMail:
+
+SM : It provides SaaS
+DM : Public Cloud
+
+
+AWS ECC
+
+SM : It provides PaaS
+DM : Public cloud
+
+AWS BeanStalk
+
+SM : It provides PaaS
+DM : Public Cloud
+
+AWS Lambda
+
+SM : It is actually described as FaaS ( the PaaS that containes function )
+DM : Public Cloud
+
+
+ownCloud
+
+SM : It is an IaaS
+DM : Secured by both private and public cloud ( Hybrid ? )
+
+
+Google App Engine
+
+SM : It provides PaaS
+DM : Public
+
+OpenStack
+
+SM : Designed as Iaas and has several features of PaaS
+DM : Public and also in private
+
