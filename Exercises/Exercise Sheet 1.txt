@@ -1,0 +1,4 @@
+Task 1: Setting up - GitHub - DONE
+Task 2: Setting up - AWS - PD
+Task 3: Setting up – Git and Maven - DONE
+Task 4 : The NIST Definition of Cloud Computing 
